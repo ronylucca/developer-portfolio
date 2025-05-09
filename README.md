@@ -1,4 +1,4 @@
-# Portfólio de Rony de Lucca | Desenvolvedor Web3 & Backend
+# Portfólio | Desenvolvedor Web3 & Backend
 
 
 Portfólio profissional desenvolvido com Next.js, apresentando minha experiência como desenvolvedor Web3 e Backend com mais de 15 anos no mercado.
