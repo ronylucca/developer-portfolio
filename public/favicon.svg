@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#6E57E0"/>
+  
+  <!-- Letra R em branco - refinada e mais fina -->
+  <path fill="white" d="M5 8v16h3.5v-6h2l4 6h4l-4.5-6.5c1.8-0.8 3-2 3-4.5s-1.8-5-5-5H5z"/>
+  <!-- Buraco no R em roxo -->
+  <path fill="#6E57E0" d="M8.5 11.5v4h2c1 0 1.8-0.7 1.8-2s-0.8-2-1.8-2H8.5z"/>
+  
+  <!-- Letra L em branco - refinada e mais fina -->
+  <path fill="white" d="M22 8v16h7v-3.5h-3.5V8h-3.5z"/>
+</svg> 

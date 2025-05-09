@@ -1,0 +1,17 @@
+{
+  "name": "Rony de Lucca - Developer",
+  "short_name": "RL",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32 64x64 192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#6E57E0",
+  "background_color": "#121212",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+} 
